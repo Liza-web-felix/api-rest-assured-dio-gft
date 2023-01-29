@@ -10,22 +10,21 @@ Projeto foi desenvolvido para o processo seletivo da Empresa GFT juntamente com 
  
  <img src="https://img2.gratispng.com/20180420/rde/kisspng-java-runtime-environment-computer-icons-5ada662a80b640.1117075515242624425272.jpg" alt="logo java" width="30" height="35"> Java version 17
  
-# -> Site Maven repository[https://mvnrepository.com/] para baixar as dependências pom.xml;
+### -> Site Maven repository[https://mvnrepository.com/] para baixar as dependências pom.xml;
 
 ```
 JUnit - jupiter - version: 5.9.1;
 -> API
 -> Engine
--> Platform Runner version:1.9.1
+-> Platform Runner - version:1.9.1
+
+Rest-Assured - version: 5.3.0;
+-> Json Schema Validator
+-> Json Path
 ```
 
 ### Test Automation Framework <img src="https://bellatrix.solutions/content/uploads/Allure_logo-600x243.png" alt="Allure" width="100" height="100"> 
 
-```
- 
-```
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY6qV1Tj0-M_3x4Pe0lk-0FI6zaaKQMC5w2WipQLeotG9QPdJroxBAb87Xpfd_AUYm1w&usqp=CAU" alt="logo eclipse" width="30" height="35"> Maven version 4.0.0
 
-### Deployed in Heroku 
-API REST [See in HEROKU](https://apirest-desafiomv.herokuapp.com/swagger-ui.html).
 
-WebApp - Consume [See in HEROKU](https://frontend-desafiomv.herokuapp.com/).
