@@ -9,11 +9,20 @@ Projeto foi desenvolvido para o processo seletivo da Empresa GFT juntamente com 
  <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="logo eclipse" width="30" height="35"> Eclipse IDE - 2022-12
  
  <img src="https://img2.gratispng.com/20180420/rde/kisspng-java-runtime-environment-computer-icons-5ada662a80b640.1117075515242624425272.jpg" alt="logo java" width="30" height="35"> Java version 17
+ 
+# -> Site Maven repository[https://mvnrepository.com/] para baixar as dependências pom.xml;
+
+```
+JUnit - jupiter - version: 5.9.1;
+-> API
+-> Engine
+-> Platform Runner version:1.9.1
+```
 
 ### Test Automation Framework <img src="https://bellatrix.solutions/content/uploads/Allure_logo-600x243.png" alt="Allure" width="100" height="100"> 
 
 ```
-Javascript, Vue.js, Axios, CSS, HTML.  
+ 
 ```
 
 ### Deployed in Heroku 
