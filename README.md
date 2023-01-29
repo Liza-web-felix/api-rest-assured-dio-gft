@@ -10,7 +10,7 @@ Projeto foi desenvolvido para o processo seletivo da Empresa GFT juntamente com 
  
  <img src="https://img2.gratispng.com/20180420/rde/kisspng-java-runtime-environment-computer-icons-5ada662a80b640.1117075515242624425272.jpg" alt="logo java" width="30" height="35"> Java version 17
 
-### Test Automation Framework <img src="https://bellatrix.solutions/content/uploads/Allure_logo-600x243.png" alt="Allure" width="50" height="70"> 
+### Test Automation Framework <img src="https://bellatrix.solutions/content/uploads/Allure_logo-600x243.png" alt="Allure" width="100" height="100"> 
 
 ```
 Javascript, Vue.js, Axios, CSS, HTML.  
