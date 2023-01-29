@@ -27,5 +27,5 @@ Rest-Assured - version: 5.3.0;
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY6qV1Tj0-M_3x4Pe0lk-0FI6zaaKQMC5w2WipQLeotG9QPdJroxBAb87Xpfd_AUYm1w&usqp=CAU" alt="logo maven" width="30" height="35"> Maven version 4.0.0
 
-<img src="https://img1.gratispng.com/20180514/hcq/kisspng-github-logo-repository-computer-icons-5afa376beb2671.4883383715263476279632.jpg" alt="logo github" width="30" height="35"> GitHub
+<img src="https://img1.gratispng.com/20180514/hcq/kisspng-github-logo-repository-computer-icons-5afa376beb2671.4883383715263476279632.jpg" alt="logo github" width="100" height="70"> GitHub
 
