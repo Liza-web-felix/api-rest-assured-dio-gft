@@ -6,7 +6,7 @@ Projeto foi desenvolvido para o processo seletivo da Empresa GFT juntamente com 
 
 ### Ferramentas e extensões utilizadas
 
- <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="logo eclipse" width="30" height="35"> Eclipse IDE for Enterprise Java and Web Developers - 2022-12
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="logo eclipse" width="30" height="35"> Eclipse IDE - 2022-12
  
  <img src="https://img2.gratispng.com/20180420/rde/kisspng-java-runtime-environment-computer-icons-5ada662a80b640.1117075515242624425272.jpg" alt="logo java" width="30" height="35"> Java version 17
 
