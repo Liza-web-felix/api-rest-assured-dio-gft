@@ -1,4 +1,4 @@
-# Nome   <img src="iamgem" alt="MV" width="125" height="40">
+# Nome   <img src="https://hermes.digitalinnovation.one/files/assets/baf58331-072e-43e0-a414-cea934844a90.png" alt="GFT" width="125" height="40">
 ## Project  Breakcoffee List
 ```
 Projeto foi desenvolvido para o processo seletivo da Empresa MV
