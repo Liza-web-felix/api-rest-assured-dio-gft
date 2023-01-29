@@ -1,4 +1,5 @@
-# Nome   <img src="https://hermes.digitalinnovation.one/files/assets/baf58331-072e-43e0-a414-cea934844a90.png" alt="GFT" width="400" height="300">
+# <img src="https://hermes.digitalinnovation.one/files/assets/baf58331-072e-43e0-a414-cea934844a90.png" alt="GFT" width="200" height="200">
+# Nome  
 ## Project  Breakcoffee List
 ```
 Projeto foi desenvolvido para o processo seletivo da Empresa MV
